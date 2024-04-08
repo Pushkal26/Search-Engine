@@ -17,7 +17,9 @@ Please make sure to have the latest version of Google Chrome browser and Chrome 
 ## Run Locally
 
 Clone the project
-
+```bash
+  git clone https://github.com/Pushkal26/Search-Engine.git
+```
 Go to the project directory
 
 Install dependencies
